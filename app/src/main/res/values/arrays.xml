@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="haijin_list">
+        <item>@array/issa_kobayashi</item>
+        <item>@array/shiki_masaoka</item>
+    </array>
+    <array name="issa_kobayashi">
+        <item>小林 一茶</item>
+        <item>@array/issa_kobayashi_haiku</item>
+    </array>
+    <array name="issa_kobayashi_haiku">
+        <item>じっとして 馬にかがるる 蛙かな,じっとして うまにかがるる かえるかな</item>
+        <item>雀の子 そこのけそこのけ お馬が通る,すずめのこ そこのけそこのけ おうまがとおる</item>
+        <item>目出度さも ちう位也 おらが春,めでたさも ちゅうくらいなり おらがはる</item>
+        <item>痩蛙 まけるな一茶 是に有,やせがえる まけるないっさ これにあり</item>
+        <item>雪とけて 村いっぱいの こどもかな,ゆきとけて むらいっぱいの こどもかな</item>
+    </array>
+    <array name="shiki_masaoka">
+        <item>正岡 子規</item>
+        <item>@array/shiki_masaoka_haiku</item>
+    </array>
+    <array name="shiki_masaoka_haiku">
+        <item>淡雪の 後ろ明るき 月夜かな</item>
+        <item>下駄借りて 宿屋出づるや 朧月</item>
+        <item>島々に 灯をともしけり 春の海</item>
+        <item>春の夜や くらがり走る 小提灯</item>
+        <item>毎年よ 彼岸の入りに 寒いのは</item>
+    </array>
+
+</resources>
