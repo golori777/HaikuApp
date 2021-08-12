@@ -88,6 +88,7 @@ class HaikuShowActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
                 override fun onError(utteranceId: String) {
                     Log.d(TAG, "progress on Error $utteranceId")
+                    Log.d(TAG, "aaaaa")
                 }
 
                 override fun onStart(utteranceId: String) {
